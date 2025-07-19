@@ -1,2 +1,4 @@
 # KyuR-QRCode-Generator
-A simple and responsive web app that generates dynamic QR codes from user input (text, URL, or contact info). Built with HTML, CSS, and JavaScript using the QRious library.
+A responsive web app that generates dynamic QR codes from user input using the [QRious](https://github.com/neocotic/qrious) JavaScript library. Built with HTML, CSS, and JavaScript. Fully deployable on Netlify or GitHub Pages.
+
+🔗 [Live Demo](https://your-netlify-url.netlify.app)
